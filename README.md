@@ -1,21 +1,19 @@
-### Hi there 👋
+##Hola soy FapCod Bienvenid@ 👋
 
 
-**FapCod/FapCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>### Soy desarrollador, tambien enseño en linea a traves de mi canal de youtube y espero que mis proyectos te sirvan como inspiracion o como ayuda para cualquier proyecto que tengas. 🐱‍👤
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Actualmente estoy trabajando en una empresa Peruana.
+- 🌱 Estoy aprendiendo desarrollo personal.
+- 🤔 Estoy buscando ayuda con la edicion de videos.
+- 💬 Preguntame sobre algun tema de los que enseño en Youtube por mi correo.
+- ⚡ Si lo puedes imaginar lo puedes hacer.
 
 | Redes     | Contenido |
 | --------- | -----:|
 | Correo  | fapcod@protonmail.com |
 | Youtube    |   FapCod |
 | Instagram      |    FapCod |
+| Facebook       |    FapCod |
+| Twitter       |    FapCod1 |
+| TikTok       |    FapCod1 |
