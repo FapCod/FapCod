@@ -12,8 +12,8 @@
 | Redes     | Contenido |
 | --------- | -----:|
 | Correo  | fapcod@protonmail.com |
-| Youtube    |   FapCod |
-| Instagram      |    FapCod |
-| Facebook       |    FapCod |
-| Twitter       |    FapCod1 |
-| TikTok       |    FapCod1 |
+| Youtube    |  [FapCod](https://www.youtube.com/channel/UCaypB7CvHIK0-aQNjp5E4Ag "FapCod") |
+| Instagram      |   [FapCod](https://www.instagram.com/fapcod "FapCod") |
+| Facebook       |    [FapCod](https://web.facebook.com/FapCod "FapCod")|
+| Twitter       |    [FapCod1](https://twitter.com/Fapcod1 "FapCod1") |
+| TikTok       |     [FapCod1](https://www.tiktok.com/@fapcod1 "FapCod1") |
