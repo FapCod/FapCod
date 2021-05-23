@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+| Redes     | Contenido |
+| --------- | -----:|
+| Correo  | fapcod@protonmail.com |
+| Youtube    |   FapCod |
+| Instagram      |    FapCod |
